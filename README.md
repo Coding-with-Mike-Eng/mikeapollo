@@ -7,8 +7,6 @@ I'm Mike Apollo, a Software Engineer.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-## 💻 Tech Stack and Tools
-| Frontend | Backend | 
-| React, HTML, CSS, JavaScript | Python, Django, Node.js, Express, MongoDB |
+## ![image](https://github.com/user-attachments/assets/cde9c39a-cccf-4dbc-ae4f-84b57ba47f73)
 
 
