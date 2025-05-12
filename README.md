@@ -9,7 +9,6 @@ I'm Mike Apollo, a Software Engineer.
 
 ## 💻 Tech Stack and Tools
 | Frontend | Backend | 
-|----------|---------|--------|-----|--------|
 | React, HTML, CSS, JavaScript | Python, Django, Node.js, Express, MongoDB |
 
 
