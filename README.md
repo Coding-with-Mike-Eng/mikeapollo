@@ -1,5 +1,5 @@
 # Hi 👋
-I'm [Mike Apollo], a [Software Engineer].
+I'm Mike Apollo, a Software Engineer.
 
 ## 🧰 Languages and Tools
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
@@ -8,9 +8,8 @@ I'm [Mike Apollo], a [Software Engineer].
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 ## 💻 Tech Stack and Tools
-| Frontend | Backend | DevOps | IDE | Others |
+| Frontend | Backend | 
 |----------|---------|--------|-----|--------|
-| React, HTML, CSS | Node.js, Express | Docker, GitHub Actions | VSCode, WebStorm | Figma, Git, GitHub |
+| React, HTML, CSS, JavaScript | Python, Django, Node.js, Express, MongoDB |
 
 
-# mikeapollo
